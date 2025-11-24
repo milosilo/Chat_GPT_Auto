@@ -46,7 +46,7 @@ Summarize cybersecurity history.
 Run the script:
 
 ```bash
-python automate_chatgpt.py
+ GPT_Auto.py
 ```
 
 **Important:**
