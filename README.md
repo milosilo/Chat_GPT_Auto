@@ -25,7 +25,7 @@ This tool is ideal for batch prompt processing, automated testing, dataset creat
 * Google Chrome set as default browser
 * Installed packages:
 
-  ```bash
+  ```bash or PowerShell
   pip install pyautogui
   ```
 
@@ -68,7 +68,7 @@ The script will:
 
 ```
 /
-├── automate_chatgpt.py
+├── GPT_Auto.py
 └── commands.txt
 ```
 
